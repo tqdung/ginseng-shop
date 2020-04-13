@@ -1,0 +1,28 @@
+.title_left {
+  height: 40px;
+  text-align: center;
+  background: url(../../../assets/images/catalog/bg-title-left.png) no-repeat;
+  background-size: 100% 100%;
+  margin-top: 45px;
+  span {
+    color: #f8ee00;
+    text-transform: uppercase;
+    font-size: 17px;
+    line-height: 40px;
+  }
+}
+.content_left {
+  padding: 10px;
+  box-sizing: border-box;
+  border-right: 1px solid rgba(128, 128, 128, 0.3);
+  border-left: 1px solid rgba(128, 128, 128, 0.3);
+  border-bottom: 1px solid rgba(128, 128, 128, 0.3);
+}
+.blog_title a {
+  color: rgba(236, 34, 41, 0.9);
+  font-size: 16px;
+  font-weight: bold;
+  display: block;
+  line-height: normal;
+  margin-bottom: 5px;
+}

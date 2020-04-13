@@ -1,0 +1,160 @@
+.footer {
+  background: #fff;
+  .foot_1 {
+    ul {
+      padding: 30px 0;
+      display: flex;
+      li {
+        margin: 0 10px;
+        img {
+          display: inline-block;
+          height: auto;
+          width: 100%;
+        }
+      }
+    }
+  }
+  .foot_2 {
+    padding: 40px 0;
+    border-top: 2px solid #ededf1;
+    .ol1_foot_1,
+    .ol1_foot_2,
+    .ol1_foot_3 {
+      li {
+        a {
+          color: #333;
+        }
+      }
+    }
+    .ol1_foot_1 {
+      .t_foot_1 {
+        text-transform: uppercase;
+        font-weight: 700;
+        padding: 0 10px 15px 0;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    }
+    .ol1_foot_2 {
+      .t_foot_2 {
+        text-transform: uppercase;
+        font-weight: 700;
+        padding: 0 10px 15px 0;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    }
+    .ol1_foot_3 {
+      .t_foot_3 {
+        text-transform: uppercase;
+        font-weight: 700;
+        padding: 0 10px 15px 0;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    }
+    .ol1_foot_4 {
+      .t_foot_4 {
+        text-transform: uppercase;
+        font-weight: 700;
+        padding: 0 10px 15px 0;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      li {
+        display: inline-block;
+        margin: 0 7px 4px 0;
+        i {
+          width: 54px;
+          height: 33px;
+        }
+      }
+      .icon_web {
+        display: inline-block;
+        background: url(../../../assets/images/catalog/icon_web.png) no-repeat;
+      }
+      .icon_vs {
+        background-position: 0 -60px;
+      }
+      .icon_ms {
+        background-position: -54px -60px;
+      }
+      .icon_jcb {
+        background-position: -108px -60px;
+      }
+      .icon_tm {
+        background-position: -162px -60px;
+      }
+      .icon_it {
+        background-position: -216px -60px;
+      }
+      .icon_tg {
+        background-position: -270px -60px;
+      }
+    }
+    .t_foot_5 {
+      text-transform: uppercase;
+      font-weight: 700;
+      padding: 0 10px 15px 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .ol1_foot_5 {
+      li {
+        display: inline-block;
+        margin: 0 7px 4px 0;
+        i {
+          width: 30px;
+          height: 30px;
+        }
+      }
+      .icon_web {
+        display: inline-block;
+        background: url(../../../assets/images/catalog/icon_web.png) no-repeat;
+      }
+      .icon_skype {
+        display: inline-block;
+        background: url(../../../assets/images/catalog/icons8-skype-64.png)
+          no-repeat;
+        background-size: cover;
+      }
+      .icon_kakao {
+        display: inline-block;
+        background: url(../../../assets/images/catalog/icon_kakaotalk.png)
+          no-repeat;
+        background-size: cover;
+      }
+      .icon_fb {
+        background-position: 0 -93px;
+      }
+      .icon_ms {
+        background-position: -30px -93px;
+      }
+      .icon_yt {
+        background-position: -60px -93px;
+        width: 43px;
+        height: 30px;
+      }
+      .icon_zl {
+        background-position: -104px -93px;
+      }
+    }
+  }
+  .foot_3 {
+    padding: 40px 0;
+    background: #f7f7f7;
+    border-bottom: 1px solid #ddd;
+  }
+  .foot_4 {
+    padding: 10px 0;
+    background: #f7f7f7;
+    color: #333;
+    line-height: 16px;
+    border-top: 1px solid #fff;
+  }
+}

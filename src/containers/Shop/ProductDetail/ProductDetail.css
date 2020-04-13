@@ -1,0 +1,35 @@
+.text_center {
+  text-align: center;
+}
+.image-gallery-fullscreen-button {
+  height: 600px;
+  width: -webkit-fill-available;
+  opacity: 0;
+  top: 0;
+  left: 0;
+}
+
+.other-info {
+  margin-left: 20px !important;
+}
+
+.other-info li {
+  list-style: disc;
+}
+
+#product {
+  border-top: 1px solid #e7e7e7;
+}
+#tab-description {
+  font-weight: 500;
+}
+/* .magnifying-glass {
+  background-size: none !important;
+  border-radius: 0 !important;
+} */
+#myPortal {
+  position: absolute;
+  top: 0;
+  right: 20%;
+  z-index: 9999;
+}
